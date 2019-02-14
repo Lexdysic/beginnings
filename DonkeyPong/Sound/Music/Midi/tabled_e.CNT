@@ -1,0 +1,101 @@
+:Base tabled_e.hlp
+:Title TablEdit 2.60
+:Index Index for tabled_e.hlp=tabled_e.hlp
+1 Table of Contents=Hlp_ToC
+1 Interface=Hlp_The_Interface
+1 Overview=Hlp_Overview
+1 Installation=Hlp_Installation
+1 Register=Hlp_Register
+
+1 File Menu
+2 Open=!JumpId(`tabled_e.hlp', `JmpNewOpen')
+2 Save=!JumpId(`tabled_e.hlp', `JmpSave')
+2 Tablature Manager=Hlp_Tab_Manager
+2 Import
+3 Import MIDI=Hlp_Import_MIDI
+3 Import ASCII=Hlp_Import_ASCII
+3 Import ABC=Hlp_Import_ABC
+2 Printing
+3 Print=Hlp_Print
+3 Print Preview=Hlp_Print_Preview
+2 Export
+3 Export MIDI=Hlp_Export_MIDI
+3 Export ASCII=Hlp_Export_ASCII
+3 Export ABC=Hlp_Export_ABC
+2 Options
+3 General options=Hlp_General_options
+3 Display options=Hlp_Display_options
+3 Font options=Hlp_Font_options
+3 Printing options=Hlp_Printing_options
+3 Page Layout options=Hlp_Page_Layout
+3 Print Selection=Hlp_Multitrack
+3 Preferences=Hlp_Preferences
+3 Screen options=Hlp_Screen_options
+3 Advanced options=Hlp_Advanced_options
+3 Languages=Hlp_Languages
+
+1 Display Menu
+2 Screen Layout=Hlp_Display_Menu
+2 Palettes=Hlp_Palettes
+
+1 Edit Menu
+2 Editing Notes=Hlp_Edit_Menu
+2 Editing Measures=!JumpId(`tabled_e.hlp', `JmpEditMeasures')
+2 Text Manager=Hlp_Text_Manager1
+2 Chord Manager=Hlp_Chord_Manager1
+2 Chord Editor=Hlp_Chord_Editor
+2 Chord Finder=Hlp_Chord_Finder
+2 Insert=Hlp_Insert
+2 Format=!JumpId(`tabled_e.hlp', `Format')
+
+1 Notes Menu
+2 Durations=Hlp_Notes_Menu
+2 Dynamics=Hlp_Dynamics
+2 Special Effects=Hlp_Special_Effects
+2 Pick strokes & fingerings=Hlp_Pick_strokes
+2 Grace Notes=!JumpId(`tabled_e.hlp', `GraceNote')
+2 Pitch Changes=!JumpId(`tabled_e.hlp', `NotePitch')
+
+1 Play Menu
+2 MIDI Playback=Hlp_Play_Menu
+2 Relative speed & Metronome=!JumpId(`tabled_e.hlp', `Relative speed')
+2 Reading List=Hlp_Reading_List1
+2 Percussions=Hlp_Percussionsxxx
+2 Rhythms=Hlp_Rhytmsxxx
+2 MIDI Options=Hlp_MIDI_Optionsxxx
+2 MIDI Setup=!JumpId(`tabled_e.hlp', `MidiSetup')
+
+1 Score Menu
+2 Instrument=Hlp_Instrumentxxx
+2 Tuning=!JumpId(`tabled_e.hlp', `JmpTuning')
+2 Special instruments=Hlp_Special_instruments
+2 Diatonic Instruments=Hlp_Diatonic_Instruments
+2 Drum tablatures=Hlp_Drum_tabs
+2 Time signature=Hlp_Time_signaturexxx
+2 Key signature=Hlp_Key_signaturexxx
+2 Transpose=Hlp_Transposexxx
+2 Title Information=Hlp_Title_Informationxxx
+2 Notes=Hlp_Notesxxx
+
+1 Window Menu=Hlp_Window_Menu
+1 Help Menu=Hlp_x_Menu
+1 Hotkeys=Hlp_Hotkeys
+
+1 Tutorial
+2 Content=Hlp_Tutorial
+2 First Words=Hlp_Tut_First
+2 Basic setup=Hlp_Tut_Basic
+2 Score Structure=Hlp_Tut_Score
+2 Basic Tablature Entry=Hlp_Tut_Basic1
+2 Note Duration=Hlp_Tut_Auto_duration
+2 Dynamics=Hlp_Dynamics1
+2 Selecting Items=Hlp_Extended_Selections
+2 Note Entry and Editing=Hlp_Tut_Editing
+2 Using Markers=Hlp_Markers
+2 Notation Display=Hlp_Tut_Notation
+2 Special Effects
+3 Adding special effects=Hlp_Tut_Adding
+3 Slides=Hlp_Slides
+3 Bends=Hlp_Bends
+3 Harmonics=Hlp_Harmonics
+3 Ringing notes=Hlp_Ringing_notes
